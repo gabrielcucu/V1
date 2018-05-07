@@ -298,3 +298,5 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 /App_Data/cache
+/App_Data/TEMP
+/App_Data/Logs
